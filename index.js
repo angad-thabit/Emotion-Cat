@@ -1,6 +1,6 @@
 // import { catsData } from './data.js'
 // const catsData = require('/data.js')
-
+// thats new code here
 const catsData = [{
         emotionTags: ["moody"],
         isGif: false,
